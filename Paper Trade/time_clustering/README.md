@@ -21,6 +21,7 @@
 
   + SOM(Self Organizing Map) : 저차원의 격자에 고차원 데이터의 각 개체들이 대응하도록 하여 차원축소와 군집화를 동시에 수행하는 기법
   + 군집화 결과
+  
   ![image](https://user-images.githubusercontent.com/69777594/230714902-392231da-1aa0-4308-9662-c5617fb28d62.png)
 
 ### 2. 팩터 적용 후 최적 군집 선정
